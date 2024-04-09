@@ -6,3 +6,4 @@ Main functions:
 * Block Phone access after certain time.
 * Allow certain apps after phone blockage.
 * Allow emergency calls after block (unlike [Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&hl=en_US&gl=US)).
+* Live location.
